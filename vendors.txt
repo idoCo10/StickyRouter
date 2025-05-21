@@ -1,5 +1,5 @@
 Vendor              Model             Length   Digits   Lowercase   Uppercase   Special   MAC Address     IP Address     Web Username   Web Password    
 -------             ------------      -------  -------  ----------  ----------  -------   --------------  -------------  -------------  ---------------
 ZTE                 ZXHN H267A         8        Y        Y           N           N         30:1F:48        192.168.1.1     admin         aisadmin
-T3 Technology       T626ProV2          8        Y        N           Y           N         64:20:E3        192.168.1.1     admin         8 Digits [D+U]
+T3 Technology       T626ProV2          8        Y        N           Y           N         64:20:E3        192.168.1.1     admin         8 Length [D+U]
         
